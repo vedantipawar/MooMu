@@ -12,7 +12,7 @@ Overall, MooMu can help businesses to provide personalized recommendations based
 PROJECT:
 In this project of three students, three different models were created for three different datasets - one to predict mood based on gyroscope readings, another to predict mood based on voice, and the one that I worked on to predict mood based on Google search history. To achieve this, I found a dataset that had a sentiment attached to each data of browsing history.
 
-To process the data, I used Convolutional Neural Networks (CNN) to predict the sentiment of the browsing history. CNN is a deep learning model that is commonly used for image classification tasks, but it can also be used for text classification tasks.
+To process the data, I used Convolutional Neural Networks (CNN) to predict the sentiment of the browsing history and SVC using Word2Vec. CNN is a deep learning model that is commonly used for image classification tasks, but it can also be used for text classification tasks.
 
 After processing the data with CNN, the accuracy attained by the model was 89%.
 
